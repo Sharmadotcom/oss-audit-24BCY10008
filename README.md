@@ -61,18 +61,21 @@ chmod +x script1.sh
 
 ### Run Script 2
 chmod +x script2.sh
+
 ./script2.sh
 
 ---
 
 ### Run Script 3
 chmod +x script3.sh
+
 ./script3.sh
 
 ---
 
 ### Run Script 4
 chmod +x script4.sh
+
 ./script4.sh /var/log/syslog error
 
 If syslog not found:
@@ -82,6 +85,7 @@ If syslog not found:
 
 ### Run Script 5
 chmod +x script5.sh
+
 ./script5.sh
 
 ---
