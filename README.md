@@ -1,6 +1,6 @@
 # Open Source Audit Project — Git
 
-## 👤 Student Details
+## Student Details
 - Name: Sarvesh Sharma
 - Course: Open Source Software
 - Project: Open Source Audit
@@ -8,15 +8,16 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 This project is an audit of the open-source software Git. It includes analysis of its origin, license, ecosystem, and comparison with proprietary tools. Additionally, five shell scripts are developed to demonstrate Linux and shell scripting skills.
 
 ---
 
-## 🖥️ Environment Setup
+## Environment Setup
 
 ### Step 1: Install WSL (Windows users)
-Run in Command Prompt:wsl --install
+Run in Command Prompt:
+wsl --install
 
 ### Step 2: Install Ubuntu
 Install Ubuntu from Microsoft Store.
@@ -25,17 +26,20 @@ Install Ubuntu from Microsoft Store.
 
 ---
 
-## ⚙️ Install Dependencies
+## Install Dependencies
 
-Update system:sudo apt update
+Update system:
+sudo apt update
 
-Install Git:sudo apt install git
+Install Git:
+sudo apt install git
 
-Verify installation:git --version
+Verify installation:
+git --version
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 - script1.sh → System Identity Report 
 - script2.sh → FOSS Package Inspector 
@@ -45,7 +49,7 @@ Verify installation:git --version
 
 ---
 
-## ▶️ How to Run Scripts
+## How to Run Scripts
 
 ### Step 1: Give permission
 chmod +x script1.sh
@@ -82,7 +86,7 @@ chmod +x script5.sh
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All scripts are tested on Ubuntu (WSL)
 - Scripts use basic shell concepts like loops, conditions, and variables
@@ -90,6 +94,6 @@ chmod +x script5.sh
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This project demonstrates understanding of open-source philosophy and practical Linux scripting skills using Git.
